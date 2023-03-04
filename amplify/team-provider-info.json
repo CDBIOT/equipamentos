@@ -1,0 +1,29 @@
+{
+  "api": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-supermktaws-api-215523-authRole",
+      "UnauthRoleArn": "arn:aws:iam::560912688697:role/amplify-supermktaws-api-215523-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::560912688697:role/amplify-supermktaws-api-215523-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-supermktaws-api-215523-deployment",
+      "UnauthRoleName": "amplify-supermktaws-api-215523-unauthRole",
+      "StackName": "amplify-supermktaws-api-215523",
+      "StackId": "arn:aws:cloudformation:us-east-1:560912688697:stack/amplify-supermktaws-api-215523/97099a80-b702-11ed-82ef-0e88db0158db",
+      "AmplifyAppId": "dyas4lfr7w4pb"
+    },
+    "categories": {
+      "auth": {
+        "supermktawsfc60eca3": {}
+      },
+      "function": {
+        "supermktlamb": {
+          "deploymentBucketName": "amplify-supermktaws-api-215523-deployment",
+          "s3Key": "amplify-builds/supermktlamb-34736e7772444845736f-build.zip"
+        }
+      },
+      "api": {
+        "equipApi": {}
+      }
+    }
+  }
+}
